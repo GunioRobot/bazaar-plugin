@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  * Parses the output of bzr log.
- * 
+ *
  * @author Trond Norbye
  */
 public class BazaarChangeLogParser extends ChangeLogParser {

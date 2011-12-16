@@ -47,7 +47,7 @@ import org.kohsuke.stapler.framework.io.ByteBuffer;
 
 /**
  * Bazaar SCM.
- * 
+ *
  * @author Trond Norbye
  */
 public class BazaarSCM extends SCM implements Serializable {
